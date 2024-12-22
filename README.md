@@ -1,6 +1,6 @@
 # Economics of Asylum Countries
 Economics of Asylum Countries is a project based on visualization of the migration and economical data of different countries.  
-You can view the website at [Economics of Asylum Countries](https://economics-of-asylum-countries.vercel.app/home)
+You can view the website at [Economics of Asylum Countries](https://economics-of-asylum-countries.vercel.app)
 
 ## Pages
 
